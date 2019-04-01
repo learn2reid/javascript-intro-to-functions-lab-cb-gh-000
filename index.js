@@ -6,4 +6,6 @@ whisper = (string) => {
   return string.toLowerCase();
 }
 
-logWhisper = (string) => {}
+logWhisper = (string) => {
+  console.log(string.toLowerCase());
+}
