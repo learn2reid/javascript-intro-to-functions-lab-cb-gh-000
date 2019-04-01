@@ -10,6 +10,9 @@ logWhisper = (string) => {
   console.log(string.toLowerCase());
 }
 
+logShout = (string) => {
+  console.log(string.toUpperCase());
+}
 sayHiToGrandma = (string) => {
   let lowercase = string.toLowerCase();
   let uppercase = string.toUpperCase();
