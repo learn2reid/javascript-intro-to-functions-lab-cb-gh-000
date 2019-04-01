@@ -9,3 +9,7 @@ whisper = (string) => {
 logWhisper = (string) => {
   console.log(string.toLowerCase());
 }
+
+sayHiToGrandma = (string) => {
+  if (string.)
+}
