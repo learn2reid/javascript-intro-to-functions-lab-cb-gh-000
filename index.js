@@ -5,3 +5,5 @@ function shout(string) {
 whisper = (string) => {
   return string.toLowerCase();
 }
+
+logWhisper = (string) => {}
