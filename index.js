@@ -11,5 +11,12 @@ logWhisper = (string) => {
 }
 
 sayHiToGrandma = (string) => {
-  if (string.)
+  let lowercase = string.toLowerCase();
+  let uppercase = string.toUpperCase();
+  
+  if (string.toLowerCase() === lowercase) {
+    return "I can't hear you!";
+  } else if (string.toUpperCase === uppercase) {
+    return "YES INDEED!";
+  }
 }
